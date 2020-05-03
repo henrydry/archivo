@@ -1,0 +1,12 @@
+nombre  apellido   salario     horas          pago horas        pago de igss
+henry     David      3000        10                 120               144.9
+nombre  apellido   salario     horas          pago horas        pago de igss
+david     henry      3000        30                 360               144.9
+nombre  apellido   salario     horas          pago horas        pago de igss
+lucia     veliz      5000        50                1100               241.5
+nombre  apellido   salario     horas          pago horas        pago de igss
+catalina    chutan      4500        80                1800              217.35
+nombre  apellido   salario     horas          pago horas        pago de igss
+henry    yucute      5000        60                1400               241.5
+nombre  apellido   salario     horas          pago horas        pago de igss
+rocio    rafael      4000        40                 640               193.2
